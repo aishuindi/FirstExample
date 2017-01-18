@@ -1,0 +1,2 @@
+String str="Aishu";
+System.out.print("Hello word"+str);
